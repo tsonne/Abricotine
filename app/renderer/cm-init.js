@@ -89,7 +89,7 @@ function initCodeMirror () {
             mode: "abr-spellcheck-off",
             indentUnit: 4,
             tabSize: 4,
-            indentWithTabs: true,
+            indentWithTabs: false,
             keyMap: "abricotine"
         };
 
